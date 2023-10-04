@@ -63,6 +63,7 @@ Reflect on your process of word counting and consider the following questions:
 - Challenge the assumption that algorithms for analyzing text (such as word counting) are neutral.
 
 ## Add your assignment below via Pull Request
+Kay - [language of flowers text visualizer](https://kayitp.wordpress.com/2023/10/04/a-to-z-wk-4-word-counting/)
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. Here is some [helpful information on privacy options for an NYU blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
